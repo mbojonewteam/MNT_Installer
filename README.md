@@ -16,10 +16,10 @@ $ pkg upgrade
 $ pkg install python2
 $ pip2 install lolcat
 $ pkg install git
-$ git clone https://github.com/
+$ git clone https://github.com/mbojonewteam/MNT_Installer.git
 $ cd
 $ chmod +x *
-$ sh MNT_Installer.sh/python2 MNT_Installer.py
+$ sh MNT_Installer.sh
 
 
 Bb.L0N94_R17-MBOJO NEW TEAM:)
