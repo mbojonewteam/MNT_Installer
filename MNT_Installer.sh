@@ -35,12 +35,7 @@ echo -b "[+][+][+][+][+][+][+][+][+][+][+]+[]+[]+[]+[+][+][+][+][+][+][+] $green
 
 sleep 1
 
-###################################################
-# CTRL + C
-###################################################
-trap ctrl_c INT
-ctrl_c() {
-clear
+
 echo -b $green"[#]> Semoga tools ini bermanfaat" |lolcat
 echo -b $green"[#]> Gunakanlah dengan bijak" |lolcat
 sleep 1
@@ -50,7 +45,7 @@ echo -b $green"[#]> Please Select Tools Who Want To Install Brow" ||olcat
 figlet "MNT@Installer" | lolcat
 sleep 1
 exit
-}
+
 
 
 lagi=1
