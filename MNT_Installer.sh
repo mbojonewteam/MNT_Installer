@@ -29,7 +29,7 @@ echo -b "Email : mbojonewteam17@gmail.com $cyan " |lolcat
 echo -b "Thank's to : All Admin and Member MBOJO NEW TEAM $cyan " |lolcat
 echo -b "Website : https://www.4mbojonewteam.wordpress.com $cyan" |lolcat 
 echo -b "Bloger : https://www.mbojonewteam.blogspot.com $cyan" | lolcat
-echo -b "Github : https://github.com/rhoedhi $cyan" |lolcat
+echo -b "Github : https://github.com/mbojonewteam $cyan" |lolcat
 echo -b "Chanel : https://www.youtube.com/channel/UCeTUaYNnrAr7oaIvtd2TsyQ $cyan" |lolcat
 echo -b "[+][+][+][+][+][+][+][+][+][+][+]+[]+[]+[]+[+][+][+][+][+][+][+] $green" | lolcat
 
